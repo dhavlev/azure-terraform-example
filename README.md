@@ -18,3 +18,7 @@
   terraform fmt .
 ```
 
+4. Terraform Plan to what is going to change
+```bash
+  terraform plan .
+```
