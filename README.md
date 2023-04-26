@@ -22,3 +22,8 @@
 ```bash
   terraform plan .
 ```
+
+5. Apply terraform changes
+```bash
+  terraform apply .
+```
